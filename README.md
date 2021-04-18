@@ -1,2 +1,2 @@
-# React-Props2
+# React-Props
 Created with CodeSandbox
